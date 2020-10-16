@@ -15,6 +15,6 @@ public class Testdll_lazyload : MonoBehaviour
 
     private static void DebugMethod(string message)
     {
-        UnityEngine.Debug.Log("[LIBDEBUG]: " + message);
+        UnityEngine.Debug.Log("[LIBNATIVE]: " + message);
     }
 }
